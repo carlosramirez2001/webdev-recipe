@@ -8,3 +8,8 @@ hr{
     border: none;
     background-color: tomato;
 }
+
+ul{
+    list-style-type: square;
+
+}
